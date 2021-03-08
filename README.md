@@ -1,3 +1,3 @@
 # cs3714_hw2
 
-# This is a Timer Android app.
+# This is a stopwatch Android app.
